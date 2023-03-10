@@ -1,0 +1,3 @@
+C:/Users/Dani/Desktop/Eafit/Lenguajes de programacion/Practica_1_ListasEnlazadas_WendyBenitez/listicas/cmake-build-debug/CMakeFiles/listicas.dir
+C:/Users/Dani/Desktop/Eafit/Lenguajes de programacion/Practica_1_ListasEnlazadas_WendyBenitez/listicas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dani/Desktop/Eafit/Lenguajes de programacion/Practica_1_ListasEnlazadas_WendyBenitez/listicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
